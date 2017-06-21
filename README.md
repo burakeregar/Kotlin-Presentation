@@ -1,3 +1,4 @@
 # Kotlin 101 Presentation
 
-Presentation video in Turkish: https://www.youtube.com/watch?v=MpIcdydsLGs
+
+I gave a presentation to Android Istanbul community. Presentation video (in Turkish): https://www.youtube.com/watch?v=MpIcdydsLGs
